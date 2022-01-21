@@ -1,8 +1,11 @@
 # P4DS_CQ19_FinalProject
+Giảng viên: Trần Trung Kiên
 
-1. Thu thập dữ liệu
-- Chủ đề: Student Performance
-- Nguồn: https://archive.ics.uci.edu/ml/datasets/Student+Performance
-- Trích dẫn:
-P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
-[Web Link]
+Sinh viên thực hiện:
+
+|Họ Tên|MSSV|
+|---|---|
+|Hồ Trần Việt Cường|19120056|
+|Lưu Gia Minh|19120096|
+
+File kế hoạch: [Notion](https://www.notion.so/5b70aa6291ae459a9311d7ae22c6edba?v=af992e5c5bd948d091c101db1f9be88a)
